@@ -1,0 +1,10 @@
+c:\users\mauricio.viscarra.tx\documents\visual studio 2013\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.dll
+c:\users\mauricio.viscarra.tx\documents\visual studio 2013\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+c:\users\mauricio.viscarra.tx\documents\visual studio 2013\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+c:\users\mauricio.viscarra.tx\documents\visual studio 2013\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.dll
+c:\users\mauricio.viscarra.tx\documents\visual studio 2013\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\training\Desktop\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.dll
+C:\Users\training\Desktop\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\training\Desktop\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\training\Desktop\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.dll
+C:\Users\training\Desktop\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
