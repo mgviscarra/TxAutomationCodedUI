@@ -1,0 +1,5 @@
+C:\Users\training\Documents\Visual Studio 2013\Projects\Add2NumbersApp\Add2NumbersApp\obj\Debug\Add2NumbersApp.csprojResolveAssemblyReference.cache
+C:\Users\training\Documents\Visual Studio 2013\Projects\Add2NumbersApp\Add2NumbersApp\bin\Debug\Add2NumbersApp.dll
+C:\Users\training\Documents\Visual Studio 2013\Projects\Add2NumbersApp\Add2NumbersApp\bin\Debug\Add2NumbersApp.pdb
+C:\Users\training\Documents\Visual Studio 2013\Projects\Add2NumbersApp\Add2NumbersApp\obj\Debug\Add2NumbersApp.dll
+C:\Users\training\Documents\Visual Studio 2013\Projects\Add2NumbersApp\Add2NumbersApp\obj\Debug\Add2NumbersApp.pdb
