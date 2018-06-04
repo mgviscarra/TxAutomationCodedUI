@@ -1,0 +1,5 @@
+c:\users\training\documents\visual studio 2013\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.dll
+c:\users\training\documents\visual studio 2013\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+c:\users\training\documents\visual studio 2013\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+c:\users\training\documents\visual studio 2013\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.dll
+c:\users\training\documents\visual studio 2013\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
