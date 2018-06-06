@@ -1,0 +1,3 @@
+userName,password,employeeName,userRolNewUser,employeeFullNameNewUser,employeeUserNameNew,statusNewUser,passwordNewUser
+Admin,admin,Admin,ESS,TestAutoCU1,Fiona Grace,Enabled,Password123
+AutomationCourse,Password!1,Linda,Admin,TestAutoCU2,Hannah Flores,Disabled,Admin123
