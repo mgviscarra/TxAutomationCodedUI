@@ -1,0 +1,6 @@
+c:\users\training\documents\visual studio 2013\Projects\CalculatorDriversum\CalculatorDriversum\bin\Debug\CalculatorDriversum.dll
+c:\users\training\documents\visual studio 2013\Projects\CalculatorDriversum\CalculatorDriversum\bin\Debug\CalculatorDriversum.pdb
+c:\users\training\documents\visual studio 2013\Projects\CalculatorDriversum\CalculatorDriversum\obj\Debug\CalculatorDriversum.csprojResolveAssemblyReference.cache
+c:\users\training\documents\visual studio 2013\Projects\CalculatorDriversum\CalculatorDriversum\obj\Debug\CalculatorDriversum.dll
+c:\users\training\documents\visual studio 2013\Projects\CalculatorDriversum\CalculatorDriversum\obj\Debug\CalculatorDriversum.pdb
+c:\users\training\documents\visual studio 2013\Projects\CalculatorDriversum\CalculatorDriversum\bin\Debug\data.csv
